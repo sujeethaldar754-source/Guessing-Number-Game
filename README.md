@@ -2,7 +2,7 @@
 
 A number guessing game that starts as a simple C console program and is rebuilt as an interactive web app with a clean UI.
 
-🔗Live demo:file:///C:/Users/user/Downloads/Guess%20the%20Number.html
+🔗Live demo: file:///C:/Users/user/Downloads/Guess%20the%20Number.html
 
 ## How it works
 The game picks a random number from 1 to 100. After each guess you get a hint to go higher or lower, and the game shows how close you are. Keep guessing until you find the number.
